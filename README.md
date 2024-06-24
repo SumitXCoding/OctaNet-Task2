@@ -1,10 +1,4 @@
-It seems like you've hosted your OctaNet Task 2 To-Do List project on GitHub Pages. Here’s an enhanced README file to reflect the hosted version and provide clear instructions for users:
-
----
-
 # To-Do List Web Application
-
-![To-Do List](https://raw.githubusercontent.com/SumitXCoding/OctaNet-Tasks/main/OctaNet-Task2/Media/to-do-list.png)
 
 This project is a simple To-Do List web application developed for OctaNet Task 2.
 
